@@ -7,7 +7,7 @@ Projeto desenvolvido como parte do curso **"Analisando Dados com Power BI"**, co
 ## 🧰 Ferramentas utilizadas:
 
 - **Power BI Desktop**
-- Base de dados fictícia de vendas (fornecida no curso)
+- Base de dados fictícia de vendas (Power BI Samples)
 
 ---
 
