@@ -2,31 +2,50 @@
 
 Projeto desenvolvido como parte do curso **"Analisando Dados com Power BI"**, com o objetivo de criar um dashboard interativo para análise de vendas.
 
+---
+
 ## 🧰 Ferramentas utilizadas:
 
 - **Power BI Desktop**
-- Base de dados fictícia de vendas (Power BI Samples)
+- Base de dados fictícia de vendas (fornecida no curso)
 
-## 📄 Descrição do Projeto:
+---
 
-Neste desafio, o objetivo foi analisar uma base de dados de vendas e criar um dashboard com as principais métricas de desempenho, como:
+## 📄 Documentação do Projeto:
 
-- Faturamento total
-- Quantidade de vendas
-- Ticket médio
-- Análise por região, produto e período
+📥 [Clique aqui para acessar o PDF do desafio](./Desafio%20de%20Projeto%20Analisando%20dados%20de%20um%20Dashboard%20de%20Vendas%20no%20Power%20BI.pdf)
 
-## 📷 Capturas de tela:
+---
 
-*(Se quiser, adicione aqui prints do seu dashboard - recomendo salvar imagens em `.png` e subir no repositório também)*
+## 📷 Capturas de Tela do Dashboard:
 
+### Visão Geral:
+<img src="./PLANILHA 1.png" alt="Visão Geral do Dashboard" width="700"/>
 
-## 📑 Arquivos disponíveis:
+### Análises Detalhadas:
+<img src="./PLANILHA 2.png" alt="Análises Detalhadas" width="700"/>
 
-- `Desafio de Projeto Analisando dados de um Dashboard de Vendas no Power BI.pdf` – Documento com os detalhes do desafio.
-- *(Opcional: Adicione o `.pbix` do Power BI se quiser compartilhar o projeto completo.)*
+### Gráficos de Vendas:
+<img src="./PLANILHA 3.png" alt="Gráficos de Vendas" width="700"/>
+---
 
-## 🚀 Como abrir o projeto:
+## 📊 Principais Análises:
 
-Para visualizar o dashboa
+- Faturamento Total
+- Quantidade de Vendas
+- Ticket Médio
+- Análise por Região, Produto e Período
+
+---
+
+## 🚀 Como visualizar o Dashboard:
+
+1. Baixe o arquivo `.pbix` (se você subir ele também).
+2. Abra no Power BI Desktop.
+
+---
+
+⭐ Obrigada por visitar este projeto!  
+📌 GitHub: [@Sandynele](https://github.com/Sandynele)  
+📌 LinkedIn: [[https://www.linkedin.com/in/sandynele-dias/]]
 
