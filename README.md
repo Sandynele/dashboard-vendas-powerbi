@@ -47,5 +47,5 @@ Projeto desenvolvido como parte do curso **"Analisando Dados com Power BI"**, co
 
 ⭐ Obrigada por visitar este projeto!  
 📌 GitHub: [@Sandynele](https://github.com/Sandynele)  
-📌 LinkedIn: [[https://www.linkedin.com/in/sandynele-dias/]]
+📌 LinkedIn: [(Sandynele Dias)[https://www.linkedin.com/in/sandynele-dias/]
 
